@@ -1,0 +1,28 @@
+.backround {
+    background-color: aliceblue;
+}
+
+body {
+     background: linear-gradient(to right, rgb(230, 243, 255), rgb(130, 207, 255));
+}
+
+.padding {
+    padding-top: 20px;
+}
+
+.tombol {
+    padding-left: 615px; padding-top: 20px;
+}
+
+.bg {
+    background-color: aliceblue;
+    padding: 30px;
+}
+
+.footer {
+  background-color: #222222;
+  justify-content: space-between;
+  padding: 1rem 1rem;
+  align-items: end;
+  position: relative; top: 80px;
+}
